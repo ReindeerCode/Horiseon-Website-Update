@@ -18,7 +18,8 @@ body {
 /*End all body tag*/
 
 /*Start all header class tag*/
-.header {
+/*Removed . from next line to change from class to header tag*/
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -206,15 +207,13 @@ p {
 /*End all benefit tags*/
 
 /*Start all footer tag*/
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-.footer h2 {
   font-size: 20px;
 }
+
 /*End all footer tag*/
