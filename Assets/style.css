@@ -61,6 +61,7 @@ p {
 
 /*Start all hero tag*/
 .hero {
+  /*how do i use Flex to adjust the content rows and benefit column to end at the same point on page?*/
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
