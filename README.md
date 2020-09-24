@@ -1,5 +1,10 @@
 The following assignment provided starter HTML and CSS files. The assignment was to Refactor the codes to meet also provided criteria - see criteria below.
-Attachedthe to this repository, in the Horiseon-Website-Update folder, are screen shots of the original codes as well as my updated HTML and CSS files.
+Attached following are screen shots of the original codes as well as my updated HTML and CSS files.
+
+![code refactor demo](./Starter_CSS_1)
+![code refactor demo](./Starter_CSS_2)
+![code refactor demo](./Starter_CSS_3)
+![code refactor demo](./Starter_HTML_Code)
 
 # 01 HTML CSS Git: Code Refactor
 
