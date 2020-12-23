@@ -1,11 +1,10 @@
-# Project:
-  <h1>Horiseon Code Refactor</h1>
+# Project: Horiseon Code Refactor
 
   Deployable Link - > https://reindeercode.github.io/Horiseon-Website-Update/
 
 
 ## Table of Contents: 
-- [Project:](#project)
+- [Project: Horiseon Code Refactor](#project-horiseon-code-refactor)
   - [Table of Contents:](#table-of-contents)
   - [License:](#license)
   - [Description:](#description)
