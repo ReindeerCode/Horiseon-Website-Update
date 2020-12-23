@@ -11,7 +11,7 @@
   - [Images:](#images)
   - [Installation Instructions:](#installation-instructions)
   - [Test Command:](#test-command)
-  - [My Github Username:](#my-github-username)
+  - [Github:](#github)
   - [My Email Address:](#my-email-address)
   - [Other Contributors:](#other-contributors)
 
@@ -64,11 +64,11 @@ n/a
 ## Test Command: 
 Simply click the deployed link to visit the new site.
 
-## My Github Username: 
+## Github: 
 Check out more projects on my Github at https://github.com/ReindeerCode
 
 ## My Email Address:
-If you have any question please feel free to email me at ReindeerCode@gmail.com
+If you have any questions please feel free to email me at ReindeerCode@gmail.com
 
 ## Other Contributors:
-None at this time.
+None at this time
