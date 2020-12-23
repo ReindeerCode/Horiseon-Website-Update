@@ -1,5 +1,5 @@
 # Project:
-  <strong>Horiseon Code Refactor</strong>
+  <h1>Horiseon Code Refactor</h1>
 
   Deployable Link - > https://reindeercode.github.io/Horiseon-Website-Update/
 
